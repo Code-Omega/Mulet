@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "match": 1.0,
+      "name": "Module 1",
+      "type": "Why I joined",
+      "content": "Why I joined",
+      "id": "M1",
+      "activation": 10
+    },
+    {
+      "match": 1.0,
+      "name": "Module 2",
+      "type": "Ref",
+      "content": "Ref",
+      "id": "M2",
+      "activation": 10
+    },
+    {
+      "match": 1.0,
+      "name": "Module 3",
+      "type": "Bio",
+      "content": "Bio",
+      "id": "M3",
+      "activation": 10
+    }
+  ],
+  "links": [
+    {
+      "source": "M1",
+      "target": "M2"
+    },
+    {
+      "source": "M2",
+      "target": "M1"
+    },
+    {
+      "source": "M2",
+      "target": "M3"
+    },
+    {
+      "source": "M3",
+      "target": "M2"
+    },
+    {
+      "source": "M1",
+      "target": "M3"
+    },
+    {
+      "source": "M3",
+      "target": "M1"
+    }
+  ]
+}
