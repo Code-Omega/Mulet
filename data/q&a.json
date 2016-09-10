@@ -6,15 +6,15 @@
       "type": "q",
       "content": "How can transiently unquantified attributes be evaluated efficiently by computational models? Given successful examples of achieving structural similarity between convolutional neural networks and human visual cortex, owing benefit to the labeling scheme and the modeling strategy, how can it be applied to other data?",
       "id": "Q1",
-      "activation": 10
+      "activation": 2
     },
     {
       "match": 1.0,
       "name": "2",
       "type": "q",
-      "content": "What is the trade-off between a highly efficient social structure and that which yields maximum happiness to it\'s components, given that evolution of out society will eventually reach a point where this may be relevant. (not a good question IMO, but I\'ll keep it for reference.)",
+      "content": "What is the trade-off between a highly efficient social structure and that which yields maximum happiness to it's components, given that evolution of out society will eventually reach a point where this may be relevant. (not a good question IMO, but I'll keep it for reference.)",
       "id": "Q2",
-      "activation": 10
+      "activation": 1
     },
     {
       "match": 1.0,
@@ -22,39 +22,40 @@
       "type": "q",
       "content": "How are balances achieved between groups with different common initial goals? What are the dynamics between the groups? What about individuals inside the groups?",
       "id": "Q3",
-      "activation": 10
+      "activation": 1
     },
     {
       "match": 1.0,
       "name": "4",
       "type": "q",
-      "content": "4",
+      "content": "What is the best way to illuminate a given space? I usually find my room not lighted to my desire, too bright some where and too dim some other places. What parameters would need to be taken into considerations?",
       "id": "Q4",
-      "activation": 10
+      "activation": 3
     },
     {
       "match": 1.0,
       "name": "5",
       "type": "q",
-      "content": "5",
+      "content": "What control utilizes the maximum potential of humans? Keyboards and trackpads are fairly young, wearable tech haven't been fully explored and realized. What is the next step?",
       "id": "Q5",
-      "activation": 10
+      "activation": 1
     },
     {
       "match": 1.0,
       "name": "6",
       "type": "q",
-      "content": "6",
+      "content": "What criteria are there for controlling schemes for different tasks, given that a computer uses as little as a cursor and a keyboard (touch screen isn't much different)?
+",
       "id": "Q6",
-      "activation": 10
+      "activation": 1
     },
     {
       "match": 1.0,
       "name": "7",
       "type": "q",
-      "content": "7",
+      "content": "What is the best way to slice up a melon? Some people slice big chunks of skin, wasting the meat, but saves effort of cuttings, where as some others slice as close to the curve. Can the trade off be quantified and let similar problems be solved once and for all.",
       "id": "Q7",
-      "activation": 10
+      "activation": 1
     },
     {
       "match": 1.0,
@@ -62,7 +63,7 @@
       "type": "q",
       "content": "8",
       "id": "Q8",
-      "activation": 10
+      "activation": 1
     },
     {
       "match": 1.0,
@@ -70,7 +71,7 @@
       "type": "q",
       "content": "9",
       "id": "Q9",
-      "activation": 10
+      "activation": 1
     },
     {
       "match": 1.0,
@@ -78,7 +79,7 @@
       "type": "q",
       "content": "10",
       "id": "Q10",
-      "activation": 10
+      "activation": 1
     },
 
     {
@@ -87,7 +88,7 @@
       "type": "a",
       "content": "blah",
       "id": "Q1A1",
-      "activation": 10
+      "activation": 1
     },
     {
       "match": 1.0,
@@ -95,7 +96,7 @@
       "type": "a",
       "content": "blah",
       "id": "Q4A1",
-      "activation": 10
+      "activation": 1
     },
     {
       "match": 1.0,
@@ -103,7 +104,7 @@
       "type": "a",
       "content": "blah",
       "id": "Q4A2",
-      "activation": 10
+      "activation": 1
     }
   ],
   "links": [
