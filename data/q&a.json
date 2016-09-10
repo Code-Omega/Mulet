@@ -44,8 +44,7 @@
       "match": 1.0,
       "name": "6",
       "type": "q",
-      "content": "What criteria are there for controlling schemes for different tasks, given that a computer uses as little as a cursor and a keyboard (touch screen isn't much different)?
-",
+      "content": "What criteria are there for controlling schemes for different tasks, given that a computer uses as little as a cursor and a keyboard (touch screen isn't much different)?",
       "id": "Q6",
       "activation": 1
     },
@@ -61,7 +60,7 @@
       "match": 1.0,
       "name": "8",
       "type": "q",
-      "content": "8",
+      "content": "A good way to cut cakes (with concerns of left overs) is to extract parallel pieces from the middle, and combine the remaining pieces from the two sides, so surface area of the inside of the cake exposed for oxidation is minimized. How can this be applied to other fields?",
       "id": "Q8",
       "activation": 1
     },
@@ -69,7 +68,7 @@
       "match": 1.0,
       "name": "9",
       "type": "q",
-      "content": "9",
+      "content": "I often combine tooth brush, tooth paste, dental floss, tooth picks, mouth wash and gums for dental hygiene, since they excel at different realms, but is there a better way to do so?",
       "id": "Q9",
       "activation": 1
     },
@@ -77,7 +76,7 @@
       "match": 1.0,
       "name": "10",
       "type": "q",
-      "content": "10",
+      "content": "Insects such as mosquitos prevail during the hot weather yet go away during the cold weather. What happens exactly to the population? How did they adapt, and how can this be used to create adaptive response systems?",
       "id": "Q10",
       "activation": 1
     },
@@ -86,7 +85,7 @@
       "match": 1.0,
       "name": "experience->ground truth",
       "type": "a",
-      "content": "blah",
+      "content": "By extracting attributes with text retrieval and unsupervised learning, then supervised training with quantitative performance evaluation as ground truth.",
       "id": "Q1A1",
       "activation": 1
     },
@@ -94,7 +93,7 @@
       "match": 1.0,
       "name": "aperture lamp",
       "type": "a",
-      "content": "blah",
+      "content": "A single light source with multiple apertures and lenses, supported by a long, controllable, and flexible extension arm.",
       "id": "Q4A1",
       "activation": 1
     },
@@ -102,7 +101,7 @@
       "match": 1.0,
       "name": "flock lamp",
       "type": "a",
-      "content": "blah",
+      "content": "A flexible light source composed with a massive matrix of tiny individual light sources (micro led) that can be tuned individually, yet manageable by group behaviors. The source will adapt to the required environment with manual preference tuning and sensors.",
       "id": "Q4A2",
       "activation": 1
     }
