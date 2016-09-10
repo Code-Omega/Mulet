@@ -2,102 +2,25 @@
   "nodes": [
     {
       "match": 1.0,
-      "name": "Intro to Creativity, Innovation, Vision
-",
+      "name": "Intro to Creativity, Innovation, Vision",
       "type": "CNCT",
-      "content": "I signed up for a class regarding creativity with recommendation from a friend. The keys that sold we were as follows:
-	1. Flexibility of schedule
-	2. A guided opportunity to explore things that is just out of reach for me, yet I haven't gotten the push to attempt, receive constructive criticism and better myself.
-	3. And hence, A way to create new alternatives for myself before I graduate and step into the society.
-	
-I believe creativity can be enhanced. Humans learn with analogy, which is drawing connections between different domains by finding similar patterns, and thus creating entirely new concepts. One limiting factor on the connections one can draw upon is creativity, the patterns one is able to discover, and willing to look into. There is no intrinsic limitation for me to not explore them, yet a habit, tendency, and discipline will need to be formed for it to happen. More over, it can happen, and will happen.
-
-I would say that everyone is creative. The question is how much. If I\'m faced with such a question, I would like say that I\'m not creative. I tend to criticize myself in general, and any idea usually run through a set of filters before anything can be spit out. However, I would answer that I am creative, because no matter how good or bad an idea is to oneself, it will not sale if the presenter is not confident. Most importantly, I will naturally weight my performance, and the responses highly, and force myself to learn quicker.
-
-Generate creative ideas would be important to me because no practice will lead to no improvement. Besides, it's supposed to be fun.
-
-
-
-
-TEAM THINK TANK
-
-
-KSHITHIJ:
-Technology
-Cars (wagon, carrying case)
-Pop music
-Startups
-Want to start a startup
-[Generalized cooking system]
-[sound energy]
-[select/generate music with psychological state]
-
-JOLI
-Health and administrative
-Food and exercise
-Auto-immune disease
-Message and therapy 
-Gym stone
-Spontaneous research
-American cancer society health organization
-Massage Therapy school
-Pet owner
-Understand gym stone
-Own a restaurant
-[pet food cooking competition]
-[health data based diet]
-[a course of massage for recovery from disorders]
-[system to select the music that complements food in restaurant]
-
-ANNA
-Family
-Belle and hip-hop
-Food (GP)
-TV show (Offensively funny)
-AD agency strategy->copy writing
-[]
-
-LYNDA
-Challenge
-Extreme activities
-Philosophy
-Carl Jung -The Red Book- internal mindset
-Traveling
-Kung Fu Novel
-Not much expectation
-Live the moment and be happy
-Harmony with people around you.
-[Kung Fu cooking]
-[Music embodiment of philosophy]
-[Music/Audio virtual reality that imitates Traveling]
-
-
-JACK
-(dad works at EY)
-Investment
-Algorithm
-Start a company within a week.
-[modeling of human cognition for investment]
-[soul food by cognition]
-[use antique collections for music creation]
-[education evaluation system for individual cognition]
-",
+      "content": "In OneNote",
       "id": "M1",
       "activation": 10
     },
     {
       "match": 1.0,
-      "name": "Module 2",
-      "type": "Ref",
-      "content": "Ref",
+      "name": "Curiosity and Bio-Inspiration",
+      "type": "CNCT",
+      "content": "In OneNote",
       "id": "M2",
       "activation": 10
     },
     {
       "match": 1.0,
-      "name": "Module 3",
-      "type": "Bio",
-      "content": "Bio",
+      "name": "Building your curiosity Bank",
+      "type": "CNCT",
+      "content": "In OneNote",
       "id": "M3",
       "activation": 10
     }
