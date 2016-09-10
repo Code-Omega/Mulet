@@ -4,7 +4,7 @@
       "match": 1.0,
       "name": "1",
       "type": "q",
-      "content": "1",
+      "content": "How can transiently unquantified attributes be evaluated efficiently by computational models? Given successful examples of achieving structural similarity between convolutional neural networks and human visual cortex, owing benefit to the labeling scheme and the modeling strategy, how can it be applied to other data?",
       "id": "Q1",
       "activation": 10
     },
@@ -12,7 +12,7 @@
       "match": 1.0,
       "name": "2",
       "type": "q",
-      "content": "2",
+      "content": "What is the trade-off between a highly efficient social structure  and that which yields maximum happiness to it's components, given that evolution of out society will eventually reach a point where this may be relevant. (not a good question IMO, but I'll keep it for reference.)",
       "id": "Q2",
       "activation": 10
     },
