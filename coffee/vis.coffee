@@ -241,6 +241,11 @@ Network = () ->
         element.style("fill", "#ff2016")
           .style("stroke-width", 2.0)
         d.searched = true
+      match = d.content.toLowerCase().search(searchRegEx)
+      if searchTerm.length > 0 and match >= 0
+        element.style("fill", "#ff2016")
+          .style("stroke-width", 2.0)
+        d.searched = true
       else
         d.searched = false
         element.style("fill", (d) -> nodeColors(d.type))
