@@ -2,7 +2,7 @@
   "nodes": [
     {
       "match": 1.0,
-      "name": "1",
+      "name": "ML",
       "type": "q",
       "content": "How can transiently unquantified attributes be evaluated efficiently by computational models? Given successful examples of achieving structural similarity between convolutional neural networks and human visual cortex, owing benefit to the labeling scheme and the modeling strategy, how can it be applied to other data?",
       "id": "Q1",
@@ -10,7 +10,7 @@
     },
     {
       "match": 1.0,
-      "name": "2",
+      "name": "social structure",
       "type": "q",
       "content": "What is the trade-off between a highly efficient social structure and that which yields maximum happiness to it's components, given that evolution of out society will eventually reach a point where this may be relevant. (not a good question IMO, but I'll keep it for reference.)",
       "id": "Q2",
@@ -18,7 +18,7 @@
     },
     {
       "match": 1.0,
-      "name": "3",
+      "name": "collective goals",
       "type": "q",
       "content": "How are balances achieved between groups with different common initial goals? What are the dynamics between the groups? What about individuals inside the groups?",
       "id": "Q3",
@@ -26,7 +26,7 @@
     },
     {
       "match": 1.0,
-      "name": "4",
+      "name": "illumination",
       "type": "q",
       "content": "What is the best way to illuminate a given space? I usually find my room not lighted to my desire, too bright some where and too dim some other places. What parameters would need to be taken into considerations?",
       "id": "Q4",
@@ -34,7 +34,7 @@
     },
     {
       "match": 1.0,
-      "name": "5",
+      "name": "interfacing",
       "type": "q",
       "content": "What control utilizes the maximum potential of humans? Keyboards and trackpads are fairly young, wearable tech haven't been fully explored and realized. What is the next step?",
       "id": "Q5",
@@ -42,7 +42,7 @@
     },
     {
       "match": 1.0,
-      "name": "6",
+      "name": "interfacing",
       "type": "q",
       "content": "What criteria are there for controlling schemes for different tasks, given that a computer uses as little as a cursor and a keyboard (touch screen isn't much different)?",
       "id": "Q6",
@@ -50,7 +50,7 @@
     },
     {
       "match": 1.0,
-      "name": "7",
+      "name": "optimization",
       "type": "q",
       "content": "What is the best way to slice up a melon? Some people slice big chunks of skin, wasting the meat, but saves effort of cuttings, where as some others slice as close to the curve. Can the trade off be quantified and let similar problems be solved once and for all.",
       "id": "Q7",
@@ -58,7 +58,7 @@
     },
     {
       "match": 1.0,
-      "name": "8",
+      "name": "optimization",
       "type": "q",
       "content": "A good way to cut cakes (with concerns of left overs) is to extract parallel pieces from the middle, and combine the remaining pieces from the two sides, so surface area of the inside of the cake exposed for oxidation is minimized. How can this be applied to other fields?",
       "id": "Q8",
@@ -66,7 +66,7 @@
     },
     {
       "match": 1.0,
-      "name": "9",
+      "name": "improvement",
       "type": "q",
       "content": "I often combine tooth brush, tooth paste, dental floss, tooth picks, mouth wash and gums for dental hygiene, since they excel at different realms, but is there a better way to do so?",
       "id": "Q9",
@@ -74,12 +74,174 @@
     },
     {
       "match": 1.0,
-      "name": "10",
+      "name": "mosquitos",
       "type": "q",
       "content": "Insects such as mosquitos prevail during the hot weather yet go away during the cold weather. What happens exactly to the population? How did they adapt, and how can this be used to create adaptive response systems?",
       "id": "Q10",
       "activation": 1
     },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "q",
+      "content": "?",
+      "id": "Q11",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "q",
+      "content": "?",
+      "id": "Q12",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "q",
+      "content": "?",
+      "id": "Q13",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "q",
+      "content": "?",
+      "id": "Q14",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "q",
+      "content": "?",
+      "id": "Q15",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "q",
+      "content": "?",
+      "id": "Q16",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "q",
+      "content": "?",
+      "id": "Q17",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "q",
+      "content": "?",
+      "id": "Q18",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "q",
+      "content": "?",
+      "id": "Q19",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "q",
+      "content": "?",
+      "id": "Q20",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "q",
+      "content": "?",
+      "id": "Q21",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "q",
+      "content": "?",
+      "id": "Q22",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "q",
+      "content": "?",
+      "id": "Q23",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "q",
+      "content": "?",
+      "id": "Q24",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "q",
+      "content": "?",
+      "id": "Q25",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "q",
+      "content": "?",
+      "id": "Q26",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "q",
+      "content": "?",
+      "id": "Q27",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "q",
+      "content": "?",
+      "id": "Q28",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "q",
+      "content": "?",
+      "id": "Q29",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "q",
+      "content": "?",
+      "id": "Q30",
+      "activation": 1
+    }
+
+
 
     {
       "match": 1.0,
@@ -103,6 +265,137 @@
       "type": "a",
       "content": "A flexible light source composed with a massive matrix of tiny individual light sources (micro led) that can be tuned individually, yet manageable by group behaviors. The source will adapt to the required environment with manual preference tuning and sensors.",
       "id": "Q4A2",
+      "activation": 1
+    },
+
+
+
+    {
+      "match": 1.0,
+      "name": "Amazon Echo",
+      "type": "i",
+      "content": "Amazon released a new generation of Echo with half the price, causing a huge amount of complaining on the product's page. It may be interesting to look at the correlation between development and sales of an product and it's early stage marketing.",
+      "id": "I1",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "i",
+      "content": "?",
+      "id": "I2",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "i",
+      "content": "?",
+      "id": "I3",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "i",
+      "content": "?",
+      "id": "I4",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "i",
+      "content": "?",
+      "id": "I5",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "i",
+      "content": "?",
+      "id": "I6",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "i",
+      "content": "?",
+      "id": "I7",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "i",
+      "content": "?",
+      "id": "I8",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "i",
+      "content": "?",
+      "id": "I9",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "i",
+      "content": "?",
+      "id": "I10",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "i",
+      "content": "?",
+      "id": "I11",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "i",
+      "content": "?",
+      "id": "I12",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "i",
+      "content": "?",
+      "id": "I13",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "i",
+      "content": "?",
+      "id": "I14",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "i",
+      "content": "?",
+      "id": "I15",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "?",
+      "type": "i",
+      "content": "?",
+      "id": "I16",
       "activation": 1
     }
   ],
