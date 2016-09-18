@@ -74,73 +74,73 @@
     },
     {
       "match": 1.0,
-      "name": "mosquitos",
+      "name": "adapting",
       "type": "q",
-      "content": "Insects such as mosquitos prevail during the hot weather yet go away during the cold weather. What happens exactly to the population? How did they adapt, and how can this be used to create adaptive response systems?",
+      "content": "What happens exactly to insects population that live by certain climate? How did they adapt, and how can this be used to create adaptive response systems?",
       "id": "Q10",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "reshape",
       "type": "q",
-      "content": "?",
+      "content": "Glass and metal can be molded into different shapes. What if glass or metal structures (tables) can reshape themselves?",
       "id": "Q11",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "reshape",
       "type": "q",
-      "content": "?",
+      "content": "Can 3D printing be used to reshape items rather than simply print with filments or powders of material?",
       "id": "Q12",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "measure of change",
       "type": "q",
-      "content": "?",
+      "content": "Random processes can create significant changes, where as seemingly big deals may die down unexpectedly. Can one measure and predict the range of influence an incident has on the space-time?",
       "id": "Q13",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "solitude",
       "type": "q",
-      "content": "?",
+      "content": "A lot of people have had problems isolating sensory input. What would be a good implementation to enjoy solitude?",
       "id": "Q14",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Visualization of sound",
       "type": "q",
-      "content": "?",
+      "content": "I've always wanted to have the world look differently when I listen to certain pieces of music. What would be a good implementation for such an AR, while not imparing safety?",
       "id": "Q15",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Recipe",
       "type": "q",
-      "content": "?",
+      "content": "I tend to cook something well the first time I try it, then not so good the following few trys when I try to vary the techques. What if there's a way to control the quality while experimenting? An Machine learning, or optimization process?",
       "id": "Q16",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Classification",
       "type": "q",
-      "content": "?",
+      "content": "My topics here is getting more than a single type and name and set apart. Maybe I'll need some more flexable labeling machanism?",
       "id": "Q17",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Recording",
       "type": "q",
-      "content": "?",
+      "content": "What's a convenient way to record the important bits of daily life, without it being too much of a burden?",
       "id": "Q18",
       "activation": 1
     },
@@ -280,33 +280,33 @@
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "A little rock",
       "type": "i",
-      "content": "?",
+      "content": "I kicked a piece of rock on the road while walking. It should've been the smallest incident in one's life, but at the time I started to think about the butterfly effect, how the displacement of a piece of rock may change things. Then I decided that by reinforcing myself on the subject of this incident, I'm effectively make a tiny ripple into a big tide in my life. Then again, when one day I forget about it, it may as well be just another mundane thought.",
       "id": "I2",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Wine glass shapes",
       "type": "i",
-      "content": "?",
+      "content": "There are researches on how the shapes of wine glasses affect the evaporation of ethanol and hence, the taste of wine.",
       "id": "I3",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "mosquitos",
       "type": "i",
-      "content": "?",
+      "content": "Insects such as mosquitos prevail during the hot weather yet go away during the cold weather.",
       "id": "I4",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Recording",
       "type": "i",
-      "content": "?",
+      "content": "When I went to a stadium for a big event, the carnivore like environment was all stimulating. For the first time in my life I wanted to record everyhing. There are also various services which helps to take photos for people without them putting too much effort it.",
       "id": "I5",
       "activation": 1
     },
@@ -389,14 +389,6 @@
       "content": "?",
       "id": "I15",
       "activation": 1
-    },
-    {
-      "match": 1.0,
-      "name": "?",
-      "type": "i",
-      "content": "?",
-      "id": "I16",
-      "activation": 1
     }
   ],
   "links": [
@@ -419,6 +411,30 @@
     {
       "source": "Q4A2",
       "target": "Q4A1"
+    },
+    {
+      "source": "Q11",
+      "target": "Q12"
+    },
+    {
+      "source": "Q12",
+      "target": "Q11"
+    },
+    {
+      "source": "I2",
+      "target": "Q13"
+    },
+    {
+      "source": "I4",
+      "target": "Q10"
+    },
+    {
+      "source": "Q16",
+      "target": "Q1"
+    },
+    {
+      "source": "I5",
+      "target": "Q18"
     }
   ]
 }
