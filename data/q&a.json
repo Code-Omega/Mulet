@@ -146,97 +146,97 @@
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Automation",
       "type": "q",
-      "content": "?",
+      "content": "My roommates gets lazy about changing toilet paper rolls. They used to fill the entire bathroom, and is a bit better now I put a bag on the handle for them to put the old rolls in. Automatic toilet paper roll dispenser?",
       "id": "Q19",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Discover problems",
       "type": "q",
-      "content": "?",
+      "content": "For small things in life, can we setup a task assignment and reminding system that learns and adapts? Maybe it can point out new ideas to implment too,",
       "id": "Q20",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Headphone",
       "type": "q",
-      "content": "?",
+      "content": "I sometimes need to listen to different sources of audio at the same time, e.g. my computer and my phone. With wireless more of the trend, there needs to be a way to connect to multiple sorces.",
       "id": "Q21",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Online services",
       "type": "q",
-      "content": "?",
+      "content": "There are a few main online service hostings, such as AWS, Google clould, Azure, which intergrate all the components. There are also others like Oceandrop that just provides the server and mlab that just provides the database. How to find to optimal arrangement for a service in mind, and manage it as the service grow? A big issue nowadays is scalabilty. What if that's nolonger an issue?",
       "id": "Q22",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Emotion",
       "type": "q",
-      "content": "?",
+      "content": "Emontions are helpful in general. However, sometime it is difficult to control emontions. Can we record the fluxations and figure out conditions to help people with controlling themselves, and not just leave that to chemicals?",
       "id": "Q23",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Abstraction",
       "type": "q",
-      "content": "?",
+      "content": "What are the most efficient ways to abstract concepts, and how to reduce cost for updating the stracture?",
       "id": "Q24",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Reuse",
       "type": "q",
-      "content": "?",
+      "content": "A friend of mine is too lazy to use anything but disposable utensles. How large is the market? If we make something for it, how much waste can we prevent?",
       "id": "Q25",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Catagorize",
       "type": "q",
-      "content": "?",
+      "content": "I have a list for all of my things so I can locate them easily. The problem is, I have to manually update it, else I lose track. Can there be something affordable for this functionality?",
       "id": "Q26",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Connections",
       "type": "q",
-      "content": "?",
+      "content": "I need a new algorithm for mapping the connections between nodes, and label their importance. What would be some good methods?",
       "id": "Q27",
-      "activation": 1
+      "activation": 3
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Opinion",
       "type": "q",
-      "content": "?",
+      "content": "I'm surprised that some experience designers tend to value their own opinions too much. It obviously helps them to make their statements without caring how others think, but what are some examples of people with great designers who mind the opinions of others, and how do these people compare against each other?",
       "id": "Q28",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Companionship",
       "type": "q",
-      "content": "?",
+      "content": "It is calming to put a video of people working on their project when I work on mine. Why is that? How can this be further developed?",
       "id": "Q29",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Noise",
       "type": "q",
-      "content": "?",
+      "content": "Some people enjoy a bit of noise with their work. How efficient is it?",
       "id": "Q30",
       "activation": 1
     },
@@ -267,6 +267,31 @@
       "id": "Q4A2",
       "activation": 1
     },
+    {
+      "match": 1.0,
+      "name": "small washer",
+      "type": "a",
+      "content": "I have a small rice cooker which cooks in less than 30mins and is good for a day. Why not make a small dish/cloth washer for people who live alone?",
+      "id": "Q25A1",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "search engine",
+      "type": "a",
+      "content": "use results from search engines to evaluate connection between two topics would be easy.",
+      "id": "Q27A1",
+      "activation": 1
+    },
+    {
+      "match": 1.0,
+      "name": "interacion",
+      "type": "a",
+      "content": "being able to edit the links on the website would too (make it interactive)",
+      "id": "Q27A2",
+      "activation": 1
+    },
+
 
 
 
@@ -312,47 +337,47 @@
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Ideas for lazy people",
       "type": "i",
-      "content": "?",
+      "content": "My roommates gets lazy about cleaning and requires reminding to do so. I like cleanliness but get lazy getting food or even waking up. We need help.",
       "id": "I6",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Quality vs Quantity",
       "type": "i",
-      "content": "?",
+      "content": "Given the same expected life-time, Getting one Quality item is better than getting several with less quality.",
       "id": "I7",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Comics",
       "type": "i",
-      "content": "?",
+      "content": "Scott McCloud's Understanding Comics sheds light on visual presentations with abstraction.",
       "id": "I8",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Podcast",
       "type": "i",
-      "content": "?",
+      "content": "Dinner Table (Download) is a good source for collecting interesting advancements in the society and guildance for entertainments. They also connect drinks with history event, which is very interesting.",
       "id": "I9",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Youtube video auto-play",
       "type": "i",
-      "content": "?",
+      "content": "I recently noticed how it picks up videos halfway, if part of it has been watched.",
       "id": "I10",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Search Engine Algorithm",
       "type": "i",
       "content": "?",
       "id": "I11",
@@ -360,33 +385,33 @@
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Visual Abstraction",
       "type": "i",
-      "content": "?",
+      "content": "I tend to have a hard time remembering people's names and their faces. I just realized that I can abstract their features for better memorization. It even helped me to picture my own face for the first time by providing a guideline. ",
       "id": "I12",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Noise",
       "type": "i",
-      "content": "?",
+      "content": "I realized that repeative noise doesn't help me to concentrate, yet generated noise do, especially when I know it's being generated in real time. Noise with progression do too, and more complexed it is, the better (random video vs slow TV).",
       "id": "I13",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Assumption and efficiency of communication",
       "type": "i",
-      "content": "?",
+      "content": "I realized that I have more problem communicate with people who are close to me. They tend to relay on me to process all the information and speak with large volumns with little additional information.",
       "id": "I14",
       "activation": 1
     },
     {
       "match": 1.0,
-      "name": "?",
+      "name": "Pinterest",
       "type": "i",
-      "content": "?",
+      "content": "I haven't used it for long, but it's a great place to find well visually presented and concise ideas for inspirations.",
       "id": "I15",
       "activation": 1
     }
@@ -435,6 +460,30 @@
     {
       "source": "I5",
       "target": "Q18"
+    },
+    {
+      "source": "I10",
+      "target": "I12"
+    },
+    {
+      "source": "I10",
+      "target": "Q24"
+    },
+    {
+      "source": "I12",
+      "target": "Q24"
+    },
+    {
+      "source": "Q25",
+      "target": "Q25A1"
+    },
+    {
+      "source": "Q27",
+      "target": "Q27A1"
+    },
+    {
+      "source": "Q27",
+      "target": "Q27A2"
     }
   ]
 }
